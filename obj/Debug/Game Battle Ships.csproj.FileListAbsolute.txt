@@ -1,0 +1,23 @@
+Q:\c#\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.exe.config
+Q:\c#\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csprojResolveAssemblyReference.cache
+Q:\c#\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.frmBattleships.resources
+Q:\c#\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.Properties.Resources.resources
+Q:\c#\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csproj.GenerateResource.Cache
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.exe.config
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csprojResolveAssemblyReference.cache
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.frmBattleships.resources
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.Properties.Resources.resources
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csproj.GenerateResource.Cache
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.exe
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.pdb
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.exe
+E:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.pdb
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.exe.config
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.exe
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.pdb
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.exe
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\bin\Debug\Game Battle Ships.pdb
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csprojResolveAssemblyReference.cache
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.frmBattleships.resources
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game_Battle_Ships.Properties.Resources.resources
+G:\IT Level 5\Sem 2\Programming\A-2\Game Battle Ships\Game Battle Ships\obj\Debug\Game Battle Ships.csproj.GenerateResource.Cache
